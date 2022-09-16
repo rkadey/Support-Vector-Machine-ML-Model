@@ -6,3 +6,4 @@ Support Vector Machine (SVM) is a classification technique. The objective of SVM
 # Terminologies
 ## C Parameter
 The C parameter allows you to decide how much you want to penalize misclassified points.
+![image](https://github.com/rkadey/Support-Vector-Machine-ML-Model/blob/main/vlcsnap-2022-09-16-00h46m14s492%20(2).png)
