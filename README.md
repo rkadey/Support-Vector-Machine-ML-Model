@@ -12,3 +12,11 @@ The C parameter allows you to decide how much you want to penalize misclassified
 ## Multiple Classes.
 When your data have two classes, we can fit the model by default values. If there are more than two classes in the data, we use the decision_function_shape parameter and set it to ovr or ovo. ovr means One vs. Rest. It classifies one group with the rest of the data and then move on to the second group and classify them against the rest of the data and put the remaining of the data into another group.
 ovo compares all the classes separately and create a hyperplane for each one of them.
+
+## Kernel
+When data are not clearly separted by a hyperplane, the kernel trick adds a new dimensionsay z to linearly separate the data. There following are kernel options in python.
+- Linear
+- Radial Basis Function (rbf)
+- Polynomial
+- Sigmoid
+
