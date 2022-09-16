@@ -20,5 +20,6 @@ When data are not clearly separted by a hyperplane, the kernel trick adds a new 
 - Polynomial
 - Sigmoid
 
+The figure below shows the initial and updated codes after RBF replaced linear. The rbf takes additional two parameters; C and gamma.
+
 ![image](https://github.com/rkadey/Support-Vector-Machine-ML-Model/blob/main/vlcsnap-2022-09-16-01h06m16s349%20(2).png)
-The rbf takes additional two parameters; C and gamma.
